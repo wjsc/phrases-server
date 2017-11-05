@@ -1,0 +1,4 @@
+node_modules/
+build/
+firebase_secret_key.json
+.vscode/

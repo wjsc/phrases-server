@@ -1,0 +1,13 @@
+{
+  "server":{
+    "name": "phrases-server",
+    "port": "3000",
+    "host": "0.0.0.0",
+    "version":"1.0.0",
+    "origin":"*"
+  },
+  "firebase":{
+    "databaseURL":"https://phrases-1b08a.firebaseio.com",
+    "secretKeyPath":"../firebase_secret_key.json"
+  }
+}
