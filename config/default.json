@@ -7,7 +7,7 @@
     "origin":"*"
   },
   "firebase":{
-    "databaseURL":"https://phrases-1b08a.firebaseio.com",
+    "databaseURL":"",
     "secretKeyPath":"../firebase_secret_key.json"
   }
 }
